@@ -1,10 +1,11 @@
 The GOALS Program
 
 [Proposal](https://www.stsci.edu/jwst/phase2-public/1328.pdf)
+
 Status: Public
 
 Targets:
-- [NGC 7469](../Targets/NGC 7469.md)
+- [NGC 7469](../Targets/NGC%207469.md)
 	- [MIRI MRS](Instruments/MIRI%20MRS.md)
 	- [NIRSpec IFU](Instruments/NIRSpec%20IFU.md)
 - [VV114](../Targets/VV114.md)
