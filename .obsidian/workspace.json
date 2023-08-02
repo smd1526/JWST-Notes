@@ -21,14 +21,146 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Targets/J1201.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b4ef9791b16177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programs/Program 1328.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a66fa07babc145fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programs/Program 1328.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db622cd030a7553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Targets/NGC 7469.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "940c3daecb1c79eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Targets/VV114.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d688038ccc63f24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Targets/NGC 3256.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f37f274e026db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Programs/Program 1983.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9680464771650e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools and Resources/WebbPSF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd65d967ee2dcec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/GOALS/NGC 7469/U+22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80d46b0a8e44353c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Targets/NGC 7469.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c80571d56594ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/GOALS/II Zw 096/Inami+22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e0faa3b4e56de9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Targets/VV114.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -94,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programs/Program 1983.md",
+                "file": "Targets/VV114.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programs/Program 1983.md",
+                "file": "Targets/VV114.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programs/Program 1983.md"
+                "file": "Targets/VV114.md"
               }
             }
           }
@@ -155,11 +287,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2722e7e97fe28d74",
+  "active": "3e0faa3b4e56de9f",
   "lastOpenFiles": [
-    "Targets/J1601.md",
-    "Programs/Program 1983.md",
+    "Literature/GOALS/VV114/Evans+22.md",
+    "Targets/VV114.md",
+    "Literature/GOALS/VV114",
+    "Targets/NGC 7469.md",
+    "Literature/GOALS/VV114/Rich+23.md",
+    "Targets/II Zw 096.md",
+    "Literature/GOALS/II Zw 096/Inami+22.md",
+    "Literature/GOALS/NGC 7469/Lai+22.md",
+    "Literature/GOALS/NGC 7469/Armus+22.md",
+    "Literature/GOALS/II Zw 096",
+    "Instruments/MIRI MRS.md",
+    "Programs/Program 1328.md",
+    "Literature/GOALS/NGC 7469",
+    "Literature/GOALS",
+    "Literature/GOALS/NGC 7469/U+22.md",
     "Targets/J1201.md",
+    "Programs/Program 1983.md",
+    "Tools and Resources/Q3D.md",
+    "Tools and Resources/WebbPSF.md",
+    "Targets/NGC 3256.md",
+    "Targets/J1601.md",
+    "Tools and Resources",
+    "Instruments/NIRSpec IFU.md",
+    "Instruments",
     "Literature",
     "Targets",
     "Programs"
