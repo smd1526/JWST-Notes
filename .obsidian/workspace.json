@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "efe845ffff2ccb9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "42cf2a9963344f9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e35197a7633db5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3313e94fa5a3c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programs/Program 1983.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5becc0b1803ef7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9351aa9bd2d3bbe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2722e7e97fe28d74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "750d2b977064c8a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fb2b7cf76871d28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "7cc65255edf32eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabacdebdb11fe42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8418a57614efaa3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programs/Program 1983.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33be577d0f3ef7e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programs/Program 1983.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c594fdffaccf34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b45832630249d51b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programs/Program 1983.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2722e7e97fe28d74",
+  "lastOpenFiles": [
+    "Targets/J1601.md",
+    "Programs/Program 1983.md",
+    "Targets/J1201.md",
+    "Literature",
+    "Targets",
+    "Programs"
+  ]
+}
